@@ -1,0 +1,23 @@
+.menu{
+    width: 100%;
+    height: 55px;
+    margin: 0 auto;
+}
+.menu a{
+    display: inline-block;
+    text-decoration: none;
+    width: 320px;
+    height: 55px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 55px;
+    font-size: 34px;
+    margin: 10px 3px;
+    color: black;
+}
+.row{
+    margin: 0 15%;
+}
+.active{
+    background-color: #396;
+}
