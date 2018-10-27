@@ -16,8 +16,22 @@
     color: black;
 }
 .row{
-    margin: 0 15%;
+    margin: 0 auto;
 }
 .active{
     background-color: #396;
+}
+.myphoto{
+    width: 350px;
+    height: 400px;
+    background-color: #ccc;
+    margin: 25px 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 130px;
+    font-size: 48px;
+}
+.container{
+    display: flex;
 }
